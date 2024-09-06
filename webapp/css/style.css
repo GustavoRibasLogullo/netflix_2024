@@ -1,0 +1,15 @@
+/* Enter your custom styles here */
+.preencherBoxPreto {
+    background-color: black;
+}
+.corTextoBranco {
+    color: white;
+}
+.espacoRodape {
+    margin: 0 0 5px 5px;
+}
+
+.margemLogo {
+    position: relative;
+    top: -60px;
+}
